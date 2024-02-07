@@ -1,0 +1,11 @@
+:root {
+  /* --main-bg-color: #121212; */
+  --main-bg-color: #07c0f8;
+  --navbar-bg-color: #111111;
+  --text-color: #bfbfbf;
+  --user-chat-bubble-bg: #34495e;
+  --other-user-chat-bubble-bg: #2ecc71;
+  --accent-color: #00bcd4;
+  --link-color: #3498db;
+  --divider-color: #555555;
+}

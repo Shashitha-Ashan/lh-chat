@@ -1,0 +1,14 @@
+.chatroom {
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+}
+.chats-area {
+  height: 80vh;
+}
+.type-area {
+  width: 79vw;
+}
+.type-area-text-field {
+  width: 70vw;
+}

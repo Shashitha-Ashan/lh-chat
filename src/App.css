@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+@import url("const.css");
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+main {
+  height: fit-content;
+  display: flex;
+  flex-direction: row;
+  height: 90vh;
+}

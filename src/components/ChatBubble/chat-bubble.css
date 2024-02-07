@@ -1,0 +1,23 @@
+.chat-bubble-container {
+  width: 200px;
+  min-height: 100px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin: 10px;
+}
+.person-name {
+  padding: 3px;
+}
+.chat-bubble-about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.chat-bubble-menu {
+  border: 0;
+  background-color: transparent;
+}
+.chat-bubble-message {
+  padding: 5px;
+  font-size: 0.85rem;
+}
